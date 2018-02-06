@@ -7,7 +7,7 @@ AddSong("Aero Chord","Surface","Trap","AeroChord_Surface.mp3","img/artists/aeroc
 AddSong("Aero Chord","The 90S","Future Bass","AeroChord_The90S.mp3","img/artists/aerochord.png","loveandhateep")
 AddSong("Aero Chord &<br>Razihel","Titans","Trap","AeroChordAndRazihel_Titans.mp3","img/artists/aerochord.png","titanssingle")
 AddSong("Aero Chord","Wanchu Back","Trap","AeroChord_WanchuBack.mp3","img/artists/aerochord.png","loveandhateep")
-AddSong("SelenaGomezWolves","Wolves","Trap","f06766d99ca2d765fa1e7b767a106909.mp3","img/artists/aerochord.png","loveandhateep")
+AddSong("SelenaGomez","Wolves","Trap","f06766d99ca2d765fa1e7b767a106909.mp3","img/artists/aerochord.png","loveandhateep")
 
 AddSong("Au5","Crossroad<br>(feat. Danyka Nadeau)","Trance","Au5_Crossroad.mp3","img/artists/au5.png","crossroadsingle")
 AddSong("Au5","Snowblind<br>(feat. Tasha Baxter)","Dubstep","Au5_Snowblind.mp3","img/artists/au5.png","snowblindsingle")
